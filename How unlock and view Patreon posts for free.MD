@@ -1,4 +1,4 @@
-# 🔓 Patreon Viewer Tool – View Patreon Content Without a Subscription [Kemono Wiki](https://www.kemono.wiki/)
+# 🔓 Patreon Viewer Tool – View Patreon Content Without a Subscription [FreePatreon.com](https://www.kemono.wiki/)
 
 Patreon is a popular platform where creators share exclusive content—like premium videos, artwork, and updates—with paying subscribers. While the platform helps creators earn income, not everyone can afford a subscription.
 
