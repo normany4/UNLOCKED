@@ -1,7 +1,7 @@
 <h1 align="center">🌈 Welcome to the Free Patreon Tool! 🎉</h1>
 
 <p align="center">
-  A 100% free and open-source tool to browse public Patreon content with ease.  
+  A 100% free tool to browse public Patreon content with ease.  
   <br><br>
   👉 <a href="https://www.kemono.wiki" target="_blank"><b>Visit the Tool Now!</b></a> 👈
 </p>
